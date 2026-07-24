@@ -29,7 +29,7 @@ Config mínima (1 GB RAM / 5 GB / 1 vCore): $1,80/mes. Incluye 2 BD MySQL y prot
 
 ### Gratis (con limitaciones)
 
-**[OptikLink](https://optiklink.net/home)** — Servidores Node.js gratuitos, pero requiere verificación tipo "braven" y cuenta de Discord activa, además de mostrar anuncios. Buena opción para pruebas, no ideal para producción 24/7.
+**[OptikLink](https://optiklink.net/home)** — Servidores Node.js gratuitos, pero requiere verificación tipo "brave" y cuenta de Discord activa, además de mostrar anuncios. Buena opción para pruebas, no ideal para producción 24/7.
 
 > Recomendación: Daki Bronze (€2, fijo) vs Solar mínimo ($1,80, ajustable) quedan casi al mismo precio. La diferencia es que en Solar puedes subir solo la RAM sin pagar por más CPU/disco si Luciana MD lo necesita, mientras que en Daki subes de plan completo.
 ## Canal de WhatsApp
