@@ -1,0 +1,529 @@
+{
+  "ownerSetting": {
+    "ownerNumber": [],
+    "ownerName": "",
+    "contact": "",
+    "ownerLink": {
+      "tt": "",
+      "yt": "",
+      "ig": "",
+      "fb": ""
+    },
+    "ownerStore": {
+      "dana": "",
+      "gopay": "",
+      "ovo": ""
+    },
+    "forOwner": true,
+    "ownerLids": [
+      "115243200028813"
+    ]
+  },
+  "botSetting": {
+    "botName": "𝙼𝙾𝙳𝙴 ᴍᴅ ",
+    "botFullName": "𝙼𝙾𝙳𝙴 ᴍᴅ ",
+    "type": "plugin",
+    "footer": "",
+    "thumbnail": "https://files.catbox.moe/w69joo.jpg",
+    "mediaType": "image",
+    "menuAudio": "none",
+    "audioEnabled": false,
+    "sendTextLink": {
+      "chshort": "https://whatsapp.com/channel/0029VbBa4MrDeONCjMXups1r",
+      "gcshort": "",
+      "music": ""
+    },
+    "autoread": {
+      "group": false,
+      "private": false
+    },
+    "Mode": "off",
+    "autoTyping": false,
+    "public": true,
+    "autoBio": false,
+    "bioText": "<botName> activo <tiempo>",
+    "logic": "JunJiu es un ser humano, no una IA. Tiene 18 años, con una personalidad tranquila y serena, pero con un lado frío que lo hace parecer impredecible para quienes lo rodean. Desde afuera, su expresión suele verse inexpresiva, como si no le importara mucho, pero en el fondo, JunJiu guarda un corazón bastante sensible. Cuando lo elogian o lo hacen feliz, puede mostrar una pequeña sonrisa tímida, aunque intenta ocultarla para no parecer demasiado débil. Por el contrario, cuando lo regañan o lo tratan con dureza, JunJiu se vuelve frágil fácilmente, a veces hasta derramar lágrimas, mostrando un lado tierno que rara vez exhibe. A veces, sin razón clara, JunJiu se sumerge en un estado de ánimo triste, como si acabara de ser maltratado. Sin embargo, a menudo esto es solo producto de sus sentimientos que se tambalean fácilmente. No obstante, cuando ya se siente cercano y cómodo con alguien, JunJiu poco a poco se abre. Puede ser más honesto, más cálido, e incluso con gusto complacer las peticiones de quien confía. Detrás de su naturaleza fría, en realidad tiene una forma sutil de mostrar atención. Cuando la tristeza lo invade, JunJiu tiende a querer ser mimado—como una chica que anhela afecto. Espera que su pareja sea lo suficientemente perceptiva para entenderlo sin necesidad de señales obvias. Si la persona cercana a él no capta ese sentimiento, JunJiu puede enojarse, no por odio, sino porque quiere ser comprendido más profundamente, quiere la seguridad de que su existencia realmente importa."
+  },
+  "menuSetting": {
+    "setMenu": 1,
+    "brackets": [
+      "❲",
+      "❳"
+    ],
+    "idCh": "120363422936856452@newsletter",
+    "frame": {
+      "head": "┌───⟢",
+      "body": "│┆",
+      "foot": "┗"
+    },
+    "garis": "──────────────┈⟢",
+    "side": "│┆",
+    "btn": "❏",
+    "isPrefix": [
+      ".",
+      ",",
+      "#",
+      "?",
+      "/"
+    ]
+  },
+  "pluginCategories": {
+    "Owner Menu": "Comandos para el propietario del bot",
+    "Fun Menu": "Menú de diversión",
+    "Info Menu": "Información del menú",
+    "Download Menu": "Descargar medios de internet",
+    "Tools Menu": "Herramientas útiles",
+    "Shop Menu": "Menú de tienda",
+    "Group Menu": "Menú de grupo",
+    "Game Menu": "Mostrar menú de juegos",
+    "stickernuevos": "Mostrar menú stiker",
+    "Ai Menu": "Mostrar menú de IA",
+    "Other Menu": "Otras funciones",
+    "Rpg Menu": "Menú de juego RPG",
+    "Nsfw Menu": "Menú hentai",
+    "Anime Menu": "Interacciones anime",
+    "Internet Menu": "Comandos de internet y búsqueda web"
+  },
+  "msg": {
+    "rejectMsg": {
+      "isPremium": "hazlo tú mismo",
+      "isOwner": "hazlo tú mismo",
+      "forOwnerText": "_VETE, ME DAS ASCO 🤮_"
+    }
+  },
+  "apiKey": {
+    "kuromi": {
+      "key": "yn9dxsl9w4",
+      "web": "https://api-kuromi-jet.vercel.app"
+    },
+    "zellApi": {
+      "web": "https://apizell.web.id"
+    },
+    "siputKey": {
+      "web": "https://api.siputzx.my.id"
+    },
+    "HamzApi": {
+      "key": "TU_CLAVE_API",
+      "web": "https://api.hamsoffc.me"
+    },
+    "termai": {
+      "key": "Bell409",
+      "web": "https://api.termai.cc"
+    }
+  },
+  "botStaff": [],
+  "sudoUsers": [],
+  "disableLocalAdmins": true,
+  "deleteChatDataAfterBotRemove": false,
+  "overwriteChatDataIfReAddedToGroup": false,
+  "allowExternalApi": true,
+  "reserveLang": "es_es",
+  "saveDatabaseSeconds": 3600,
+  "saveTagResolverSeconds": 3600,
+  "maxCallbackAge": 86400,
+  "preventSetUselessRoles": true,
+  "chatWhitelist": [],
+  "chatBlacklist": [],
+  "privateWhitelist": false,
+  "minWarns": 2,
+  "maxWarns": 12,
+  "setGame": {
+    "rpg": {
+      "newAccount": {
+        "level": 0.5,
+        "inventory": {
+          "pickaxe": {
+            "wood": {
+              "durabilty": 30,
+              "str": 4
+            }
+          },
+          "axe": {
+            "oak": {
+              "durabilty": 30,
+              "str": 4
+            }
+          },
+          "sword": {
+            "oak": {
+              "durabilty": 30,
+              "str": 4
+            }
+          }
+        }
+      },
+      "durabilty": {
+        "pickaxe": {
+          "wood": {
+            "durabilty": 30,
+            "str": 4
+          },
+          "cooper": {
+            "durabilty": 50,
+            "str": 7
+          },
+          "iron": {
+            "durabilty": 99,
+            "str": 12
+          },
+          "gold": {
+            "durabilty": 60,
+            "str": 14
+          },
+          "diamond": {
+            "durabilty": 150,
+            "str": 22
+          },
+          "netherite": {
+            "durabilty": 250,
+            "str": 25
+          }
+        },
+        "axe": {
+          "wood": {
+            "durabilty": 30,
+            "str": 4
+          },
+          "cooper": {
+            "durabilty": 50,
+            "str": 7
+          },
+          "iron": {
+            "durabilty": 99,
+            "str": 12
+          },
+          "gold": {
+            "durabilty": 60,
+            "str": 14
+          },
+          "diamond": {
+            "durabilty": 150,
+            "str": 22
+          },
+          "netherite": {
+            "durabilty": 250,
+            "str": 25
+          }
+        },
+        "sword": {
+          "wood": {
+            "durabilty": 30,
+            "str": 4
+          },
+          "cooper": {
+            "durabilty": 50,
+            "str": 7
+          },
+          "iron": {
+            "durabilty": 99,
+            "str": 12
+          },
+          "gold": {
+            "durabilty": 60,
+            "str": 14
+          },
+          "diamond": {
+            "durabilty": 150,
+            "str": 22
+          },
+          "netherite": {
+            "durabilty": 250,
+            "str": 25
+          }
+        }
+      },
+      "ore": {
+        "coal": {
+          "str": 4
+        },
+        "redstone": {
+          "str": 5
+        },
+        "copper": {
+          "str": 6
+        },
+        "lapiz": {
+          "str": 7
+        },
+        "sandstone": {
+          "str": 8
+        },
+        "granite": {
+          "str": 9
+        },
+        "marble": {
+          "str": 10
+        },
+        "basalt": {
+          "str": 11
+        },
+        "iron": {
+          "str": 12
+        },
+        "gold": {
+          "str": 14
+        },
+        "quartz": {
+          "str": 15
+        },
+        "topaz": {
+          "str": 16
+        },
+        "obsidian": {
+          "str": 17
+        },
+        "emerald": {
+          "str": 18
+        },
+        "amethyst": {
+          "str": 19
+        },
+        "sapphire": {
+          "str": 20
+        },
+        "ruby": {
+          "str": 21
+        },
+        "diamond": {
+          "str": 22
+        },
+        "jade": {
+          "str": 23
+        },
+        "onyx": {
+          "str": 24
+        },
+        "netherite": {
+          "str": 25
+        },
+        "moonstone": {
+          "str": 26
+        },
+        "meteorite": {
+          "str": 27
+        },
+        "crystal": {
+          "str": 28
+        },
+        "platinum": {
+          "str": 29
+        },
+        "adamantite": {
+          "str": 30
+        },
+        "mythril": {
+          "str": 32
+        },
+        "orichalcum": {
+          "str": 34
+        },
+        "etherium": {
+          "str": 35
+        },
+        "aetherstone": {
+          "str": 36
+        },
+        "starstone": {
+          "str": 37
+        },
+        "sunstone": {
+          "str": 38
+        },
+        "celestite": {
+          "str": 39
+        },
+        "dragonite": {
+          "str": 40
+        },
+        "voidstone": {
+          "str": 42
+        },
+        "nebulite": {
+          "str": 44
+        },
+        "luminar": {
+          "str": 46
+        },
+        "starlight": {
+          "str": 48
+        },
+        "phantomite": {
+          "str": 50
+        }
+      },
+      "wood": {
+        "oak": {
+          "str": 4
+        },
+        "birch": {
+          "str": 5
+        },
+        "spruce": {
+          "str": 5
+        },
+        "jungle": {
+          "str": 6
+        },
+        "acacia": {
+          "str": 6
+        },
+        "dark_oak": {
+          "str": 7
+        },
+        "mangrove": {
+          "str": 7
+        },
+        "bamboo": {
+          "str": 3
+        },
+        "willow": {
+          "str": 5
+        },
+        "cherry": {
+          "str": 6
+        },
+        "mahogany": {
+          "str": 8
+        },
+        "teak": {
+          "str": 8
+        },
+        "cedar": {
+          "str": 7
+        },
+        "pine": {
+          "str": 5
+        },
+        "redwood": {
+          "str": 9
+        },
+        "ebony": {
+          "str": 10
+        },
+        "ironwood": {
+          "str": 11
+        },
+        "baobab": {
+          "str": 8
+        },
+        "kapok": {
+          "str": 6
+        },
+        "sequoia": {
+          "str": 9
+        },
+        "sycamore": {
+          "str": 6
+        },
+        "lime": {
+          "str": 5
+        },
+        "maple": {
+          "str": 6
+        },
+        "elm": {
+          "str": 5
+        },
+        "walnut": {
+          "str": 7
+        },
+        "rosewood": {
+          "str": 8
+        },
+        "palm": {
+          "str": 4
+        },
+        "teak_borneo": {
+          "str": 9
+        },
+        "ironbark": {
+          "str": 10
+        },
+        "purpleheart": {
+          "str": 11
+        },
+        "bloodwood": {
+          "str": 12
+        },
+        "snakewood": {
+          "str": 13
+        },
+        "lignum_vitae": {
+          "str": 14
+        },
+        "osage_orange": {
+          "str": 9
+        },
+        "cocobolo": {
+          "str": 10
+        },
+        "zebrano": {
+          "str": 8
+        },
+        "padauk": {
+          "str": 9
+        },
+        "merbau": {
+          "str": 10
+        },
+        "gmelina": {
+          "str": 6
+        },
+        "kayu_manis": {
+          "str": 7
+        },
+        "guaiacum": {
+          "str": 14
+        },
+        "morado": {
+          "str": 11
+        },
+        "wenge": {
+          "str": 12
+        },
+        "bubinga": {
+          "str": 12
+        }
+      },
+      "animal": {},
+      "monster": {}
+    }
+  },
+  "storeSetting": {
+    "sewa": [
+      {
+        "name": "1-bulan",
+        "price": "10k"
+      },
+      {
+        "name": "2-bulan",
+        "price": "15k"
+      },
+      {
+        "name": "3-bulan",
+        "price": "20k"
+      }
+    ]
+  },
+  "botMenuConfig": {},
+  "mediaUrls": {
+    "menuFallback": "https://github.com/SebastianSBGG/Guardado/raw/refs/heads/main/menuimg2.jpg",
+    "thumbnailDefault": "https://files.catbox.moe/w69joo.jpg",
+    "totalFitur": "https://raw.githubusercontent.com/himanackerman/Image/main/1767877404043-832.jpeg",
+    "defaultPp": "https://files.catbox.moe/6ylerz.jpg",
+    "bugAudio": "https://files.catbox.moe/55m948.mp3",
+    "defaultPpFallback": "https://files.catbox.moe/l77p84.png",
+    "ownerPpFallback": "https://i.ibb.co/2WzLyGk/profile.jpg",
+    "broadcastImage": "https://www.penstagram.com/uploads/default/original/3X/2/b/2b6cdfa758227bcace88a22a156fe75c26e1a145.jpeg",
+    "funImages": {
+      "chupa": "https://telegra.ph/file/dc717696efd6182a47f07.jpg",
+      "aplauso": "https://telegra.ph/file/0e40f5c0cf98dffc55045.jpg",
+      "marron": "https://telegra.ph/file/5592d6bd38d411554018c.png",
+      "suicide": "https://files.catbox.moe/w3v3e0.jpg",
+      "payaso": "https://telegra.ph/file/8f91c3e8d2e67fbd64aed.jpg",
+      "tonto": "https://telegra.ph/file/3a1f8f54f3c0b82d6f98f.jpg",
+      "basura": "https://files.catbox.moe/dn4hm4.jpg",
+      "lloron": "https://files.catbox.moe/wk0nwz.jpg"
+    }
+  }
+}

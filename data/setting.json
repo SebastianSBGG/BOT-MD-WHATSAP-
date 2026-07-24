@@ -1,0 +1,19 @@
+{
+  "botName": "MODE MD",
+  "ownerName": "Owner",
+  "ownerNumber": "",
+  "prefix": ".",
+  "version": "7.0.0",
+  "public": true,
+  "saluranLink": "",
+  "saluranId": "120363422936856452@newsletter",
+  "saluranName": "MODE MD",
+  "defaultLimit": 25,
+  "restablecerHour": 0,
+  "restablecerMinute": 0,
+  "dailyLimitRestablecer": true,
+  "menuAudio": "media/menu_audio1.mp3",
+  "menuAudioIndex": 1,
+  "audioMenu": true,
+  "menuVariant": 1
+}

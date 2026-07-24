@@ -1,0 +1,61 @@
+{
+  "name": "mode-md",
+  "version": "3.1.0",
+  "description": "MODE MD — Bot de WhatsApp v3 (Node 22 compatible)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --max-old-space-size=1024 index.js",
+    "start:pm2": "pm2 start index.js --name mode-md --max-memory-restart 900M",
+    "install:safe": "npm install --legacy-peer-deps --ignore-scripts",
+    "install:full": "npm install --legacy-peer-deps",
+    "check:apis": "node scripts/check-apis.js",
+    "server:install": "npm install --legacy-peer-deps --no-audit --no-fund",
+    "server:start": "node --max-old-space-size=1024 index.js",
+    "build:obfuscate": "node scripts/build-obfuscated.js"
+  },
+  "author": "Anónimo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
+  "overrides": {
+    "jimp": "^0.22.12",
+    "sharp": "^0.33.5"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@napi-rs/canvas": "^1.0.1",
+    "@whiskeysockets/baileys": "file:vendor/d-baileys",
+    "archiver": "^8.0.0",
+    "axios": "^1.8.2",
+    "base-64": "^1.0.0",
+    "base32": "^0.0.5",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cron": "^3.1.7",
+    "ffmpeg-static": "^5.3.0",
+    "file-type": "^18.7.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.2",
+    "jimp": "^0.22.12",
+    "lowdb": "^7.0.1",
+    "lru-cache": "^11.5.1",
+    "moment-timezone": "^0.5.47",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.7.0",
+    "node-webpmux": "^3.2.0",
+    "pino": "^8.19.0",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "qs": "^6.12.0",
+    "ruhend-scraper": "^9.0.8",
+    "undici": "^6.21.1",
+    "uuid": "^9.0.1",
+    "yt-search": "^2.12.1"
+  },
+  "optionalDependencies": {
+    "canvas": "^3.2.3",
+    "sharp": "^0.33.5"
+  }
+}
