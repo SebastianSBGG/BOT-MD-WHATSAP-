@@ -3,7 +3,35 @@
 Bot de WhatsApp multifuncional basado en Node.js (compatible con Node 22), con más de 250 plugins organizados por categorías: administración de grupos, descargas, IA, juegos, gacha, stickers, RPG, y más.
 
 Este script es gratuito y de código abierto.
+## Hosting recomendado
 
+Si quieres correr tu propia instancia sin depender de tu celular o PC, estas son opciones evaluadas:
+
+### De pago (más estables)
+
+**[Daki Hosting](https://billing.daki.cc/products/appbot-hosting)** — Planes App/Bot Hosting:
+
+| Plan | CPU | RAM | Disco | Splits | Precio |
+|------|-----|-----|-------|--------|--------|
+| Bronze | 100% | 2 GB | 6 GB | 2 | €2,00 |
+| Silver | 200% | 4 GB | 9 GB | 3 | €4,00 |
+| Gold | 300% | 6 GB | 12 GB | 4 | €6,00 |
+
+**[Solar Hosting](https://solarhosting.cc/bot-hosting.html)** — Plan personalizable, armas tu propia config:
+
+| Recurso | Rango | Precio unitario |
+|---------|-------|------------------|
+| RAM | 1–16 GB | $0,70 por GB |
+| Storage | 5–100 GB | $0,02 por GB |
+| vCores | 1–8 | $1,00 por core |
+
+Config mínima (1 GB RAM / 5 GB / 1 vCore): $1,80/mes. Incluye 2 BD MySQL y protección DDoS de 100G. Descuentos por ciclo: Quarterly -43%, Biannual -47%, Yearly -53%, 2-Year -55%.
+
+### Gratis (con limitaciones)
+
+**[OptikLink](https://optiklink.net/home)** — Servidores Node.js gratuitos, pero requiere verificación tipo "braven" y cuenta de Discord activa, además de mostrar anuncios. Buena opción para pruebas, no ideal para producción 24/7.
+
+> Recomendación: Daki Bronze (€2, fijo) vs Solar mínimo ($1,80, ajustable) quedan casi al mismo precio. La diferencia es que en Solar puedes subir solo la RAM sin pagar por más CPU/disco si Luciana MD lo necesita, mientras que en Daki subes de plan completo.
 ## Canal de WhatsApp
 
 Para avisos, actualizaciones y soporte, únete al canal oficial:
