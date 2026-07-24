@@ -96,10 +96,6 @@ Usa el comando de menú del bot una vez iniciado para ver la lista completa y ac
 
 Las contribuciones son bienvenidas. Si encuentras un error o quieres proponer una mejora, abre un issue o un pull request en este repositorio.
 
-## Licencia
-
-Este proyecto se distribuye bajo licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## Aviso legal
 
 Los plugins de descarga (YouTube, Spotify, redes sociales, etc.) se ofrecen con fines educativos y de uso personal. El uso de estas funciones para distribuir contenido protegido por derechos de autor es responsabilidad exclusiva de quien lo utilice.
